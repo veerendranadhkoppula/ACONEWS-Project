@@ -28,7 +28,7 @@ Axios: Axios is a JavaScript library used to make HTTP requests. It is employed 
 To run the React News App on your local machine, follow these steps:
 
 ## Clone the repository to your local machine using the following command:
-git clone https://github.com/simranlotey/react-news-app.git
+git clone https://github.com/veerendranadhkoppula/ACONEWS-Project.git
 Navigate to the project directory:
 cd react-news-app
 Install the required dependencies:
